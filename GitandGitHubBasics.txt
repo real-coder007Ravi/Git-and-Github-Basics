@@ -21,3 +21,6 @@ Command=>  git congig  --global user.name="Ravi Kumar Gupta"
 // To commit git commit -m "message of commit"
 // Git log to check how many commits ahve been made so far
 // Command K to clear screen of git
+// Checkout command to got to first commit git checkout hashcode this will  delete all the aftermade commits
+// git checkout master will bring back all the deleteed files back to the repository 
+
