@@ -23,4 +23,5 @@ Command=>  git congig  --global user.name="Ravi Kumar Gupta"
 // Command K to clear screen of git
 // Checkout command to got to first commit git checkout hashcode this will  delete all the aftermade commits
 // git checkout master will bring back all the deleteed files back to the repository 
-
+//checkout command is for moving from branch to branch
+//git branch 
