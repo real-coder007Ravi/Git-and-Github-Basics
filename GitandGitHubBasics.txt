@@ -20,3 +20,4 @@ Command=>  git congig  --global user.name="Ravi Kumar Gupta"
 // Staging Area where we keep all the changes on hold before commiting them
 // To commit git commit -m "message of commit"
 // Git log to check how many commits ahve been made so far
+// Command K to clear screen of git
