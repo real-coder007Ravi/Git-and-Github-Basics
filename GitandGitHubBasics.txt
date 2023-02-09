@@ -24,4 +24,6 @@ Command=>  git congig  --global user.name="Ravi Kumar Gupta"
 // Checkout command to got to first commit git checkout hashcode this will  delete all the aftermade commits
 // git checkout master will bring back all the deleteed files back to the repository 
 //checkout command is for moving from branch to branch
-//git branch 
+//git branch - We make different branches for pople working in different featrures to not get affect the other files present
+for Checkout another command=> git checout -b ravi/multiply
+
