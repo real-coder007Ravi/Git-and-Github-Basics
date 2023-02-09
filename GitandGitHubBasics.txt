@@ -1,0 +1,22 @@
+//Git is a Version Control System which is a method to save the history of your files.
+//Installation of Git
+// to Check version of git:=>    git --version
+// To set the config so that if you make any change then your name and email id will be visible to everyonbe availbale on github
+Command=>  git congig  --global user.name="Ravi Kumar Gupta"
+ => git config --global user.email="ravi246383gupta@gmail.com"
+ //To check if set then git config --global user.email
+ // to directly change uner config file =>
+ git config --global --edit
+//To escape press ESc and :wq
+// To make any new foler- mkdir name
+//To come to that folder cd name/
+//In git we follow the concept of repository which means the project that can be tracked via git
+//git init will make intilaise this folder for git
+ // ls to see if any 
+ //ls -a- which contains .git file
+ // git status which shows what all changes have been made to this repository
+// Firstly track and then then commit
+//use git add abc.cpp
+// Staging Area where we keep all the changes on hold before commiting them
+// To commit git commit -m "message of commit"
+// Git log to check how many commits ahve been made so far
